@@ -1,0 +1,4 @@
+http://beautifulsoup.readthedocs.io/zh_CN/latest/
+https://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/
+http://docs.python-requests.org/en/master/api/
+http://docs.python-requests.org/zh_CN/latest/user/quickstart.html
